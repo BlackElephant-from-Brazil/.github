@@ -1,5 +1,7 @@
+![Logo da BlackElephant](assets/blackelephant.png)
+
 # Bem-vindo à nossa organização no GitHub!
-Somos uma empresa especializada em desenvolvimento de software sob demanda. Utilizamos tecnologias de ponta e somos especialistas em design de experiência do usuário (UX).
+Somos uma empresa especializada em design de experiência do usuário (UX). Utilizamos tecnologias de ponta e somos especialistas em desenvolvimento de software e apps sob demanda.
 
 ## O que fazemos
 - Desenvolvimento de software sob demanda: trabalhamos com você para entender suas necessidades e criamos soluções personalizadas para atender às suas necessidades.
