@@ -1,4 +1,4 @@
-![Logo da BlackElephant](assets/blackelephant.png)
+![Logo da BlackElephant](assets/blackelephant.png){:width="100%"}
 
 # Bem-vindo à nossa organização no GitHub!
 Somos uma empresa especializada em design de experiência do usuário (UX). Utilizamos tecnologias de ponta e somos especialistas em desenvolvimento de software e apps sob demanda.
